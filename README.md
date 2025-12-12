@@ -40,5 +40,5 @@ Each file walks through different ANOVA scenarios:
 └── README.md
 
 ```
-# Now buy me cat food:
+# Buy me cat food:
 evilmathcat@yandex.com
