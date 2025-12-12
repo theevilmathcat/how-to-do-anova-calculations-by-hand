@@ -222,6 +222,6 @@ Try calculating Fisher's LSD for this dataset:
 
 ---
 
-**License:** MIT  
-**Author:** [Your Name]  
-**Last Updated:** December 2024
+**Last Updated:** December 2025
+**buy me cat food**
+evilmathcat@yandex.com
