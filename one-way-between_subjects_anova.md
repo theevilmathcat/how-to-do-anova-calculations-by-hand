@@ -3,7 +3,7 @@
 ## Scenario
 Independent factor: Program (3 levels: A, B, C)  
 Dependent variable: Squat_1RM  
-Between-subjects design (different lifters in each group)  
+Between-subjects(independente groups) design (different lifters in each group)  
 n = 2 per group, total N = 6
 
 ## Data Table
@@ -68,3 +68,4 @@ n = 2 per group, total N = 6
 | Program     | 2  | 669   | 334.5  | 52.82  |
 | Within (Error) | 3  | 19    | 6.33   |        |
 | Total       | 5  | 688   |        |        |
+
