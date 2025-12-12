@@ -126,18 +126,18 @@ LSD = 2.96 kg
 
 Calculate the absolute difference between each pair of means:
 
-| Comparison | Mean Difference | |LSD (2.96)| | Significant? |
-|------------|-----------------|--------------|--------------|
-| A vs B | \|85.6 - 92.0\| = 6.4 | > 2.96 | **Yes** ✓ |
-| A vs C | \|85.6 - 77.8\| = 7.8 | > 2.96 | **Yes** ✓ |
-| A vs D | \|85.6 - 95.0\| = 9.4 | > 2.96 | **Yes** ✓ |
-| A vs E | \|85.6 - 87.8\| = 2.2 | < 2.96 | No |
-| B vs C | \|92.0 - 77.8\| = 14.2 | > 2.96 | **Yes** ✓ |
-| B vs D | \|92.0 - 95.0\| = 3.0 | > 2.96 | **Yes** ✓ |
-| B vs E | \|92.0 - 87.8\| = 4.2 | > 2.96 | **Yes** ✓ |
-| C vs D | \|77.8 - 95.0\| = 17.2 | > 2.96 | **Yes** ✓ |
-| C vs E | \|77.8 - 87.8\| = 10.0 | > 2.96 | **Yes** ✓ |
-| D vs E | \|95.0 - 87.8\| = 7.2 | > 2.96 | **Yes** ✓ |
+| Comparison | Mean Difference | Comparison to LSD | Significant? |
+|------------|-----------------|-------------------|--------------|
+| A vs B | 6.4 kg | > 2.96 | **Yes** ✓ |
+| A vs C | 7.8 kg | > 2.96 | **Yes** ✓ |
+| A vs D | 9.4 kg | > 2.96 | **Yes** ✓ |
+| A vs E | 2.2 kg | < 2.96 | No |
+| B vs C | 14.2 kg | > 2.96 | **Yes** ✓ |
+| B vs D | 3.0 kg | > 2.96 | **Yes** ✓ |
+| B vs E | 4.2 kg | > 2.96 | **Yes** ✓ |
+| C vs D | 17.2 kg | > 2.96 | **Yes** ✓ |
+| C vs E | 10.0 kg | > 2.96 | **Yes** ✓ |
+| D vs E | 7.2 kg | > 2.96 | **Yes** ✓ |
 
 ---
 
