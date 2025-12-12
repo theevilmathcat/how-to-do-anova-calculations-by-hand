@@ -215,13 +215,6 @@ Try calculating Fisher's LSD for this dataset:
 
 ---
 
-## References
-
-- Fisher, R. A. (1935). *The Design of Experiments*
-- Maxwell, S. E., & Delaney, H. D. (2004). *Designing Experiments and Analyzing Data*
-
----
-
 **Last Updated:** December 2025
-**buy me cat food**
+**Buy me cat food**
 evilmathcat@yandex.com
