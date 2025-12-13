@@ -340,4 +340,4 @@ For Random Model:
 
 ---
 
-* Buy me cat food: evilmathcat@yandex.com*
+*Buy me cat food: evilmathcat@yandex.com*
