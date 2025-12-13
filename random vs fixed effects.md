@@ -340,4 +340,4 @@ For Random Model:
 
 ---
 
-*Dataset created for educational purposes. In real research, always check ANOVA assumptions: normality, homogeneity of variance, and independence.*
+* Buy me cat food: evilmathcat@yandex.com*
